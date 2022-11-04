@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Calendário da Copa" src=".github/Capa.png" width="100%">
+  <img alt="Calendário da Copa" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,7 +26,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
+- JavaScript
 - Git e GitHub
 
 ## 💻 Projeto
@@ -35,7 +35,7 @@ O calendário é um componente que simula o formulário de preenchimento de cart
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://csssantos.github.io/nlw_calendario/).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/HmpCfCKfxp2wxznDNKZuIv/).
 
 ## :memo: Licença
 
